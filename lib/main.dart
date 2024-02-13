@@ -3,12 +3,12 @@ import 'package:first_app/gradient_cointainer.dart';
 
 void main() {
   runApp(
-    const MaterialApp(
+     const MaterialApp(
       home: Scaffold(
         body: GradientCointainer( 
           colors: [
-            Color.fromARGB(255, 117, 188, 229),
-            Color.fromARGB(255, 113, 213, 196),
+            Color.fromARGB(255, 149, 33, 155),
+            Color.fromARGB(255, 164, 74, 189),
             ],
           ),
       ),
