@@ -8,7 +8,7 @@ void main() {
         body: GradientCointainer( 
           colors: [
             Color.fromARGB(255, 149, 33, 155),
-            Color.fromARGB(255, 164, 74, 189),
+            Color.fromARGB(255, 160, 71, 184),
             ],
           ),
       ),
