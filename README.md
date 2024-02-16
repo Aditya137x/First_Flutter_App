@@ -1,6 +1,6 @@
-# first_app
+# Dice App
 
-A new Flutter project.
+Its my first app build with Flutter. You can try things out by installing the apk files from [Releases](https://github.com/Aditya137x/First_Flutter_App/releases)
 
 ## Getting Started
 
